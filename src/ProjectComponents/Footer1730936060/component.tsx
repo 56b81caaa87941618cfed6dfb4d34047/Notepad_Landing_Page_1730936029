@@ -8,8 +8,8 @@ const Footer: React.FC = () => {
           
           {/* FOOTER COPY */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-xl font-bold mb-2">NoteMaster</h3>
-            <p className="text-gray-400">© 2023 NoteMaster. Empowering your ideas, one note at a time.</p>
+            <h3 className="text-xl font-bold mb-2">AquaFlow</h3>
+            <p className="text-gray-400">© 2023 Testing. Stay refreshed, stay sustainable.</p>
           </div>
 
           {/* SOCIALS */}
