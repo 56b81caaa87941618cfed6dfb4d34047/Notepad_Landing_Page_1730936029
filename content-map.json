@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "NoteMaster",
+        "HERO_HEADING_TEXT": "Capture Your Thoughts, Unleash Your Creativity",
+        "HERO_SUBHEADING_TEXT": "Discover the ultimate notepad experience with NoteMaster. Seamlessly organize your ideas, tasks, and inspirations in one intuitive platform.",
+        "FOOTER_TEXT": "\u00a9 2023 NoteMaster. Empowering your ideas, one note at a time."
+    }
+}
